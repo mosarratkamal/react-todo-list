@@ -6,7 +6,7 @@ class TodoInput extends Component{
     render(){
         return(
             <div>
-                <h1>I am into TodoInput</h1>
+                <h1>I am into changed TodoInput</h1>
                 <TodoList/>
             </div>
         );
